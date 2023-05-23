@@ -1,2 +1,2 @@
-# Project_Bl7ckLight_v1.0_-AI_presentation-
+# Project Bl7ckLight v1.0 (AI presentation)
 My first project on Unity, where I realize AI
